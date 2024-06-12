@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "https://app.uptimemonster.com/status-page/wGbtkrhOZciH/$1"
+      "source": "/(.*)",
+      "destination": "https://app.uptimemonster.com/status-page/wGbtkrhOZciH/$1"
  }
   ]
 }
